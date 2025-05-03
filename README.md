@@ -5,7 +5,6 @@ A responsive and modern business agency website built using **HTML**, **CSS**, a
 ## 🚀 Live Demo
 
 [Click here to view the live demo](https://prakashrpk.github.io/business-agency-using-html-css-js/)  
-*(If not deployed, you can set it up on GitHub Pages or Netlify)*
 
 ---
 
@@ -25,7 +24,6 @@ A responsive and modern business agency website built using **HTML**, **CSS**, a
 - Smooth scrolling and animations
 - Navigation bar with logo and links
 - Services section with cards
-- Portfolio/gallery section
 - Contact form
 - Footer with social media links
 
@@ -50,7 +48,8 @@ business-agency-using-html-css-js/
 
 - **Prakash R**  
   [GitHub](https://github.com/prakashRpk)  
-  [LinkedIn](#)
+  [LinkedIn](https://www.linkedin.com/in/mr-prakash/)
+  [Instagram](https://www.instagram.com/hello_mr_prakash/)
 
 ---
 
@@ -59,9 +58,4 @@ business-agency-using-html-css-js/
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-## 📌 Notes
-
-- You can further improve it by adding more sections (like testimonials, FAQs).
-- Consider integrating a back-end or form submission service like Formspree or EmailJS for contact forms.
 
